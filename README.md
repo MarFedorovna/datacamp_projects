@@ -1,22 +1,23 @@
 # Проекты DataCamp
-[![Аналитик данных — Яндекс.Практикум](/logo.png)](https://praktikum.yandex.ru/data-analyst/)
+[![DataCamp](/logo.png)](https://learn.datacamp.com/)
 
 Ссылка на сайт: https://learn.datacamp.com/
 
-
-## Описание:
-
-
-## Как выглядит программа:
-![Аналитик данных — программа](/program.png)
 
 
 ## Описание проектов:
 | Номер проекта | Название и ссылка | О чем проект                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
-|1              |[Исследование музыки больших городов](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/1.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python%20%D0%B8%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/music_project.ipynb)|Сравниваем, что и в каком режиме слушают жители. Исследуем предпочтения и поведение пользователей Яндекс.Музыки|
-|2              |[Исследование надежности заемщиков](https://nbviewer.jupyter.org/github/Drewleks/yandex_praktikum/blob/master/2.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/credit_scoring_project.ipynb)|Разбираемся, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов|
-# TODO: Сделать обложку, оформить ридми
+|1              |[Доктор Земмельвейс и открытие мытья рук](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)|Еще раз проанализируем данные, лежащие в основе одного из самых важных открытий современной медицины: мытья рук|
 
+|2              |[Изучение истории Lego](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)|Используем методы обработки данных, чтобы исследовать различные аспекты истории Lego|
+
+|3              |[Изучение рынка криптовалюты Биткойн](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb)|Изучаем рыночную капитализацию биткойнов и других криптовалют|
+
+|4              |[Воссоздание карты призраков Джона Сноу](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/Recreating%20John%20Snow%27s%20Ghost%20Map/notebook.ipynb)|Анализируем знаменитую карту вспышки холеры в Лондоне в 1854 году, составленную Джоном Сноу|
+
+|5              |[Телевидение, шоу в перерыве между таймами и большая игра](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)|Загружаем, очищаем и исследуем данные Суперкубка в эпоху стремительного роста рекламных расходов и ярких шоу в перерывах между играми|
+
+|6              |[История языка Scala на GitHub](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)|Ищем настоящих экспертов по Scala, изучая историю его разработки в Git и GitHub|
 
 ---
