@@ -14,5 +14,5 @@
 |4              |[Воссоздание карты призраков Джона Сноу](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/Recreating%20John%20Snow%27s%20Ghost%20Map/notebook.ipynb)|Анализируем знаменитую карту вспышки холеры в Лондоне в 1854 году, составленную Джоном Сноу|
 |5              |[Телевидение, шоу в перерыве между таймами и большая игра](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)|Загружаем, очищаем и исследуем данные Суперкубка в эпоху стремительного роста рекламных расходов и ярких шоу в перерывах между играми|
 |6              |[История языка Scala на GitHub](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)|Ищем настоящих экспертов по Scala, изучая историю его разработки в Git и GitHub|
-
+|7              |[Изучение эволюции Linux](https://nbviewer.jupyter.org/github/Drewleks/datacamp_projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)|Узнаем об эволюции операционной системы Linux, изучая ее систему контроля версий.|
 ---
